@@ -1,5 +1,5 @@
 {
-    "name": "phalcon/incubator",
+    "name": "brunomvsouza/phalcon_incubator_fork",
     "type": "library",
     "description": "Adapters, prototypes or functionality that can be potentially incorporated to the C-framework.",
     "keywords": ["framework", "phalcon"],
@@ -10,6 +10,10 @@
         {
             "name": "Phalcon Team",
             "email": "team@phalconphp.com"
+        },
+	{
+            "name": "Bruno Souza",
+            "email": "241103@gmail.com"
         }
     ],
     "require": {
